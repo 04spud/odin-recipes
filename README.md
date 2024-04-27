@@ -1,6 +1,6 @@
 # odin-recipes
-I am practicing all the HTML knowledge I have acquired from The Odin Project.
-I will be creating a basic recipe website that consists of an index page and links to a few recipes.
+I am practicing the HTML knowledge I have acquired from The Odin Project.
+I have created a basic recipe website that consists of an index page with links to a few recipes.ß
 
 Self-reflection:
 I have finished constructing my basic recipe website and feel proud.
