@@ -12,5 +12,4 @@ Material learnt in HTML Foundations:
 - Git Basics
 - HTML Elements and Tags
 - HTML Boilerplate
-- HTML working with Text and Listsß
-ß
+- HTML working with Text and Lists
