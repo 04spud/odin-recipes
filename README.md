@@ -11,9 +11,6 @@ I have a better understanding of the Git workflow and the importance of committi
 I am excited to learn the skills taught in the next section (CSS foundations) because it will help me customise the visible elements of my website.
 
 Material learnt in HTML Foundations:
-- CLI Basics
-- Working with Files and Directories
-- Pipes and Filters
 - Difference between Git and Github
 - Git Basics
 - HTML Elements and Tags
